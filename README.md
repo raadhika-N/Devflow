@@ -1,5 +1,5 @@
 About
-
+-
 DevFlow is a full-stack project management platform that enables teams to manage projects, track tasks, collaborate through comments, and monitor progress through activity feeds. The platform also integrates AI-powered project intelligence using Retrieval-Augmented Generation (RAG), allowing users to query project data in natural language and receive context-aware insights.
 AI Features
 AI-generated sprint summaries
