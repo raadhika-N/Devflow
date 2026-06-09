@@ -17,8 +17,6 @@ BullMQ job queues
 Redis-based task processing
 Scalable AI pipelines
 
-Tech Stack
-
 Backend
 -
 Node.js
@@ -45,29 +43,30 @@ BullMQ
 Redis
 
 AI Workflow
+-
 User Query
-    ↓
+    ->
 Embedding Generation
-    ↓
+    ->
 Vector Search
-    ↓
+    ->
 Retrieve Relevant Context
-    ↓
+    ->
 LLM Response Generation
-    ↓
+    ->
 Answer Returned
 
 Project Architecture
 Client
-   ↓
+   ->
 Routes
-   ↓
+   ->
 Controllers
-   ↓
+   ->
 Services
-   ↓
+   ->
 MongoDB
-   ↓
+   ->
 Response
 
 DevFlow combines modern backend engineering practices with RAG-based AI capabilities to create an intelligent project management platform for development teams.
